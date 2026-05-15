@@ -1,4 +1,3 @@
-````md
 # Distributed Task Processing Platform
 
 I wanted to move beyond traditional CRUD-style MERN projects and understand how real backend systems process tasks asynchronously at scale.
@@ -92,4 +91,3 @@ Currently working on:
 - realtime status updates
 
 This project is intentionally being developed step-by-step to properly understand the reasoning behind each architectural decision instead of blindly assembling technologies together.
-````
